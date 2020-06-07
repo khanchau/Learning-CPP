@@ -5,7 +5,7 @@ using namespace std;
 
 // main class that is used to execute your code.
 int main() {
-    //cout is the standard output stream used print to the screen.
+    //cout is the standard output stream used to print to the screen.
     cout << "Hello World"; 
     /* 
         The method is declared as "int main" and thus should
