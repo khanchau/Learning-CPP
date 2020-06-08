@@ -1,10 +1,10 @@
-/* 
-    Compile with g++ filename -o compiledname
+/** 
+    Compile with g++ filename -o compiledname.
     
     Ex. g++ hello.cpp -o hello
     
     If the "-o" option is left out the generated 
-    file will default to "a"
+    file will default to "a".
 */
 
 // Allows for read or write to the standard input/output streams.
@@ -29,7 +29,7 @@ using std::cout;
 
 /*
     Prints out Hello World
-    @return int
+    @return: int
 */
 int main() {
     //cout is the standard output stream used to print to the screen.
