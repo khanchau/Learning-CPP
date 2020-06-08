@@ -1,10 +1,12 @@
-/** 
+/* 
     Compile with g++ filename -o compiledname.
     
     Ex. g++ hello.cpp -o hello
     
     If the "-o" option is left out the generated 
     file will default to "a".
+
+    To run the executable, use "./a" .
 */
 
 // Allows for read or write to the standard input/output streams.
